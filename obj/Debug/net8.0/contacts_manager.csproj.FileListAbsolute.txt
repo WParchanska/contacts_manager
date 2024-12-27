@@ -12,3 +12,4 @@
 /Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.pdb
 /Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.genruntimeconfig.cache
 /Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/ref/contacts_manager.dll
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.sourcelink.json
