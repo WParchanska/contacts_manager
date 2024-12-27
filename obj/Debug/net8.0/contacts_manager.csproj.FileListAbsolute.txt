@@ -1,0 +1,14 @@
+/Users/anonim/Desktop/contacts_manager/bin/Debug/net8.0/contacts_manager
+/Users/anonim/Desktop/contacts_manager/bin/Debug/net8.0/contacts_manager.deps.json
+/Users/anonim/Desktop/contacts_manager/bin/Debug/net8.0/contacts_manager.runtimeconfig.json
+/Users/anonim/Desktop/contacts_manager/bin/Debug/net8.0/contacts_manager.dll
+/Users/anonim/Desktop/contacts_manager/bin/Debug/net8.0/contacts_manager.pdb
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.AssemblyInfoInputs.cache
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.AssemblyInfo.cs
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.csproj.CoreCompileInputs.cache
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.dll
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/refint/contacts_manager.dll
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.pdb
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/contacts_manager.genruntimeconfig.cache
+/Users/anonim/Desktop/contacts_manager/obj/Debug/net8.0/ref/contacts_manager.dll
